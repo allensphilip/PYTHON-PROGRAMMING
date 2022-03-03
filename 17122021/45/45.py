@@ -1,0 +1,2 @@
+import areapkg
+areapkg.area()
